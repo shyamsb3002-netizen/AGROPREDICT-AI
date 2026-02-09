@@ -109,4 +109,69 @@ Disease risk is estimated by combining:
 
 ## 📸 Application Screenshots
 
-### 🏠
+### 🏠 Home Page – AGROPREDICT
+
+![AGROPREDICT Home Page](screenshots/home_page.png)
+
+Smart landing page of AGROPREDICT showing the main services such as crop prediction, fertilizer recommendation and disease detection.
+
+---
+
+### 📊 Dashboard
+
+![AGROPREDICT Dashboard](screenshots/dashboard.png)
+
+Central dashboard providing access to crop advisory, disease detection, risk maps, nearby seed and fertilizer stores, local mandi trading and the AI assistant.
+
+---
+
+## 🏗️ System Architecture
+
+
+---
+
+## 🛠️ Technology Stack
+
+**Backend**
+- Python
+- Flask
+- SQLite
+
+**Machine Learning & AI**
+- Scikit-learn
+- PyTorch / TensorFlow
+- SHAP
+- Grad-CAM
+
+**Geospatial & Mapping**
+- OpenStreetMap
+- Overpass API
+- Nominatim
+- Folium
+
+**Frontend**
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Jinja Templates
+
+---
+
+## 📁 Project Structure (Simplified)
+
+
+---
+
+## ⚙️ Installation & Run
+
+```bash
+git clone https://github.com/your-username/AGROPREDICT.git
+cd AGROPREDICT
+pip install -r requirements.txt
+python app.py
+
+
+
+
+
