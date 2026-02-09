@@ -1,0 +1,26 @@
+{
+  "PATNA": {
+    "temp_sum": 18.0,
+    "humi_sum": 68.0,
+    "rain_sum": 0.0,
+    "count": 1
+  },
+  "JAGALUR": {
+    "temp_sum": 52.0,
+    "humi_sum": 48.0,
+    "rain_sum": 0.0,
+    "count": 2
+  },
+  "DAVANAGERE": {
+    "temp_sum": 26.0,
+    "humi_sum": 22.0,
+    "rain_sum": 0.0,
+    "count": 1
+  },
+  "BASAVANAHATTI": {
+    "temp_sum": 28.0,
+    "humi_sum": 18.0,
+    "rain_sum": 0.0,
+    "count": 1
+  }
+}

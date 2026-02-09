@@ -1,0 +1,172 @@
+{
+  "ANDAMAN & NICOBAR ISLANDS": {
+    "temperature": 27.5,
+    "humidity": 78,
+    "rainfall": 2967
+  },
+  "ANDHRA PRADESH": {
+    "temperature": 28.5,
+    "humidity": 65,
+    "rainfall": 911
+  },
+  "ARUNACHAL PRADESH": {
+    "temperature": 21.3,
+    "humidity": 75,
+    "rainfall": 2782
+  },
+  "ASSAM": {
+    "temperature": 24.2,
+    "humidity": 77,
+    "rainfall": 2818
+  },
+  "BIHAR": {
+    "temperature": 26.1,
+    "humidity": 62,
+    "rainfall": 1256
+  },
+  "CHANDIGARH": {
+    "temperature": 24.5,
+    "humidity": 55,
+    "rainfall": 617
+  },
+  "CHHATTISGARH": {
+    "temperature": 26.8,
+    "humidity": 63,
+    "rainfall": 1200
+  },
+  "DADRA & NAGAR HAVELI": {
+    "temperature": 26.5,
+    "humidity": 68,
+    "rainfall": 2000
+  },
+  "DAMAN & DIU": {
+    "temperature": 26.7,
+    "humidity": 68,
+    "rainfall": 1500
+  },
+  "GOA": {
+    "temperature": 27.2,
+    "humidity": 75,
+    "rainfall": 3005
+  },
+  "GUJARAT": {
+    "temperature": 27.8,
+    "humidity": 58,
+    "rainfall": 842.5
+  },
+  "HARYANA": {
+    "temperature": 25.1,
+    "humidity": 52,
+    "rainfall": 617
+  },
+  "HIMACHAL PRADESH": {
+    "temperature": 18.2,
+    "humidity": 64,
+    "rainfall": 1251
+  },
+  "JAMMU & KASHMIR": {
+    "temperature": 13.5,
+    "humidity": 68,
+    "rainfall": 1011
+  },
+  "JHARKHAND": {
+    "temperature": 25.4,
+    "humidity": 64,
+    "rainfall": 1300
+  },
+  "KARNATAKA": {
+    "temperature": 26.1,
+    "humidity": 65,
+    "rainfall": 1771
+  },
+  "KERALA": {
+    "temperature": 27.1,
+    "humidity": 77,
+    "rainfall": 3055
+  },
+  "LAKSHADWEEP": {
+    "temperature": 27.8,
+    "humidity": 76,
+    "rainfall": 1515
+  },
+  "MADHYA PRADESH": {
+    "temperature": 25.5,
+    "humidity": 55,
+    "rainfall": 1177.5
+  },
+  "MAHARASHTRA": {
+    "temperature": 27.2,
+    "humidity": 60,
+    "rainfall": 1455.5
+  },
+  "MANIPUR": {
+    "temperature": 21.5,
+    "humidity": 74,
+    "rainfall": 1881
+  },
+  "MEGHALAYA": {
+    "temperature": 20.2,
+    "humidity": 79,
+    "rainfall": 2818
+  },
+  "MIZORAM": {
+    "temperature": 21.4,
+    "humidity": 76,
+    "rainfall": 1881
+  },
+  "NAGALAND": {
+    "temperature": 21.1,
+    "humidity": 75,
+    "rainfall": 1881
+  },
+  "NCT OF DELHI": {
+    "temperature": 25.0,
+    "humidity": 54,
+    "rainfall": 617
+  },
+  "ODISHA": {
+    "temperature": 26.9,
+    "humidity": 70,
+    "rainfall": 1489
+  },
+  "PUDUCHERRY": {
+    "temperature": 28.1,
+    "humidity": 73,
+    "rainfall": 998
+  },
+  "PUNJAB": {
+    "temperature": 24.1,
+    "humidity": 56,
+    "rainfall": 649
+  },
+  "RAJASTHAN": {
+    "temperature": 27.5,
+    "humidity": 45,
+    "rainfall": 494
+  },
+  "SIKKIM": {
+    "temperature": 15.5,
+    "humidity": 78,
+    "rainfall": 2739
+  },
+  "TAMIL NADU": {
+    "temperature": 28.5,
+    "humidity": 68,
+    "rainfall": 998
+  },
+  "TRIPURA": {
+    "temperature": 24.5,
+    "humidity": 76,
+    "rainfall": 1881
+  },
+  "UTTARAKHAND": {
+    "temperature": 19.5,
+    "humidity": 66,
+    "rainfall": 1025
+  },
+  "WEST BENGAL": {
+    "temperature": 26.2,
+    "humidity": 72,
+    "rainfall": 2089
+  }
+}
