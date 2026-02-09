@@ -40,7 +40,7 @@ The project is organized logically to separate concerns and ensure a smooth data
 - **`templates/`**: HTML templates organized by component.
 
 ## Home Page of our WebApplication
-![Home Page of our WebApplication](https://github.com/atharval1/precision-agriculture-using-machine-learning/blob/main/Project-docs/App-snaps/Home.png)
+![Home Page of our WebApplication]
 
 
 ## How to use 💻
