@@ -1,0 +1,10 @@
+AGROPREDICT/
+ ├── app.py
+ ├── templates/
+ ├── static/
+ ├── screenshots/
+ │     ├── home_page.png
+ │     └── dashboard.png
+ └── README.md
+ screenshots/home_page.png
+screenshots/dashboard.png
